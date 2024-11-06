@@ -1,4 +1,4 @@
-module https://github.com/zxckontolxd/proto-exchange
+module github.com/zxckontolxd/proto-exchange
 
 go 1.23.2
 
